@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Prueba.unity
+- path: Assets/Scenes/Prueba_Gravedad.unity
   isLoaded: 1
   isActive: 1
