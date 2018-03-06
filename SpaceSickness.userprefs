@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CambioGravedad.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GuardaGravedad.cs">
     <Files>
-      <File FileName="Assets\Scripts\CambioGravedad.cs" Line="10" Column="40" />
+      <File FileName="Assets\Scripts\CambioGravedad.cs" Line="35" Column="7" />
+      <File FileName="Assets\Scripts\GuardaGravedad.cs" Line="17" Column="19" />
+      <File FileName="Assets\Scripts\Move.cs" Line="18" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
